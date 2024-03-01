@@ -51,6 +51,8 @@ order: 232
 <!-- new slide -->
 
   ## Un commit de fusion
+
+  
 ![Un commit de fusion](./images/Un%20commit%20de%20fusion.png){:width="500px" }
 *Un commit de fusion*
 
