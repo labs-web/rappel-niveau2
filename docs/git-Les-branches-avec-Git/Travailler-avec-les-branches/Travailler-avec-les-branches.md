@@ -22,6 +22,7 @@ order: 234
 ![Branches au long cours](./images/lr-branches-2.png){:width="500px" }
 *Branches au long cours*
 
+
 <!-- new slide -->
 
 ## Les branches thématiques
