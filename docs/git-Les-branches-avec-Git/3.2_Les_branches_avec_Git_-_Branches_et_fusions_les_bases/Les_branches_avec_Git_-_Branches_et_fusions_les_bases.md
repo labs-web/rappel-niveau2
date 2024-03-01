@@ -1,3 +1,12 @@
-# 3.2_Les_branches_avec_Git_-_Branches_et_fusions_les_bases
+---
+layout: default
+order: 232
+---
+
+# Branches et fusions : les bases
+
+![Historique de commits simple](./images/Historique%20de%20commits%20simple.png){:width="500px" }
+*Historique de commits simple*
 
 
+<!-- new slide -->
