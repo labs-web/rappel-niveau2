@@ -37,3 +37,4 @@ order: 1
 - Recherche une sélection soigneusement choisie de produits de haute qualité.
 - Valorise un design propre et épuré pour une prise de décision rapide.
 - Recherche un processus de paiement sans tracas.
+  
