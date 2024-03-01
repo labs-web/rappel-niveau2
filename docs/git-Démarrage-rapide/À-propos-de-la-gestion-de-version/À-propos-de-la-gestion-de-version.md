@@ -3,6 +3,9 @@ layout: default
 chapitre: À propos de la gestion de version
 order: 201
 ---
+# Démarrage rapide
+{:class="sectionHeader"}
+<!-- new slide -->
 # À propos de la gestion de version
 {:class="sectionHeader"}
 <!-- new slide -->
