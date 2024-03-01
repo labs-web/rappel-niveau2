@@ -11,7 +11,7 @@ order: 201
 
 <!-- new slide -->
 ## Les systèmes de gestion de version centralisés
-C:\labs-web\rappel-niveau2\docs\
+
 ![À propos de la gestion de version](/rappel-niveau2/git-Démarrage-rapide\À-propos-de-la-gestion-de-version\images\chapitre2.png){:width="500px" }
 *Figure 2: À propos de la gestion de version*
 
