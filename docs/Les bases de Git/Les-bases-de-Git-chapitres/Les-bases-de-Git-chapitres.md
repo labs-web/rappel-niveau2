@@ -4,7 +4,6 @@ chapitre: Les-bases-de-Git-chapitres
 order: 221
 ---
 
-<!-- nex slide -->
 
 # 2.1 Les bases de Git - Démarrer un dépôt Git
 # 2.3 Les bases de Git - Visualiser l’historique des validations
@@ -13,3 +12,5 @@ order: 221
 # 2.6 Les bases de Git - Étiquetage
 # 2.7 Les bases de Git - Les alias Git
 # 2.8 Les bases de Git - Résumé
+
+<!-- nex slide -->
