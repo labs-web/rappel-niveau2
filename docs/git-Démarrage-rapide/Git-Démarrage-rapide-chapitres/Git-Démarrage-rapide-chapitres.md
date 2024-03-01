@@ -1,3 +1,10 @@
+---
+layout: default
+chapitre: Git-Démarrage-rapide-chapitres
+order: 214
+---
+<!-- nex slide -->
+
 # 1.4 Démarrage rapide - La ligne de commande
 # 1.5 Démarrage rapide - Installation de Git
 # 1.6 Démarrage rapide - Paramétrage à la première utilisation de Git
