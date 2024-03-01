@@ -1,6 +1,7 @@
 ---
 layout: default
-order: 220
+chapitre: Travailler avec les branches
+order: 234
 ---
 
 <!-- new slide -->
