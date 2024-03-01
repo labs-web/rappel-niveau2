@@ -1,7 +1,10 @@
 ---
 layout: presentation
-order: 
+chapitre: Démarrage rapide - Une rapide histoire de Git
+order: 212
 ---
 
-# Démarrage rapide - Une rapide histoire de Git
+# Une rapide histoire de Git
+{:class="sectionHeader"}
+<!-- new slide -->
 
