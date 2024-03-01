@@ -57,4 +57,3 @@ order: 232
 *Un commit de fusion*
 
 
-<!-- new slide -->
