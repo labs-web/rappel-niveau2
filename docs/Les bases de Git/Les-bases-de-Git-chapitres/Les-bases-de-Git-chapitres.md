@@ -4,13 +4,16 @@ chapitre: Les-bases-de-Git-chapitres
 order: 221
 ---
 
+# Les-bases-de-Git-chapitres
 
-# 2.1 Les bases de Git - Démarrer un dépôt Git
-# 2.3 Les bases de Git - Visualiser l’historique des validations
-# 2.4 Les bases de Git - Annuler des actions
-# 2.5 Les bases de Git - Travailler avec des dépôts distants
-# 2.6 Les bases de Git - Étiquetage
-# 2.7 Les bases de Git - Les alias Git
-# 2.8 Les bases de Git - Résumé
+### 2.1 Les bases de Git - Démarrer un dépôt Git
+### 2.3 Les bases de Git - Visualiser l’historique des validations
+### 2.4 Les bases de Git - Annuler des actions
+### 2.5 Les bases de Git - Travailler avec des dépôts distants
+### 2.6 Les bases de Git - Étiquetage
+### 2.7 Les bases de Git - Les alias Git
+### 2.8 Les bases de Git - Résumé
 
-<!-- nex slide -->
+<!-- new slide -->
+
+
