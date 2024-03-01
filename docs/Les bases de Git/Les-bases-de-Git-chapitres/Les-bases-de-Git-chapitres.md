@@ -1,8 +1,9 @@
 ---
 layout: default
-chapitre: À propos de la gestion de version
+chapitre: Les-bases-de-Git-chapitres
 order: 221
 ---
+
 <!-- nex slide -->
 
 # 2.1 Les bases de Git - Démarrer un dépôt Git
