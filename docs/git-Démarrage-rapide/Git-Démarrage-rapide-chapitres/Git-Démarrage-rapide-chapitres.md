@@ -10,4 +10,4 @@ order: 214
 ### 1.7 Démarrage rapide - Obtenir de l’aide
 ### 1.8 Démarrage rapide - Résumé
 
-<!-- nex slide -->
+<!-- new slide -->

@@ -21,4 +21,5 @@ order: 213
 
 ## Répertoire de travail
 ![Répertoire de travail](/rappel-niveau2/git-Démarrage-rapide/Rudiments-Git/images/areas.png)*Figure6: Répertoire de travail, zone d’index et répertoire Git.*
+
 <!-- new slide -->
